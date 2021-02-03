@@ -14,5 +14,3 @@
     https://my-json-server.typicode.com/Cardoso-topdev/fakeJsonServer/db
     
   You can use GET, POST, PUT, PATCH and DELETE. Changes aren't persisted between calls.
-  Source
-  https://github.com/Cardoso-topdev/fakeJsonServer/blob/[main|master]/db.json
